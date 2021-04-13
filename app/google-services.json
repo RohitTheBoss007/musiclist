@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802283689429",
+    "project_id": "songlist-ed188",
+    "storage_bucket": "songlist-ed188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802283689429:android:c5d794d62379ffb0f4195c",
+        "android_client_info": {
+          "package_name": "com.example.musiclist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802283689429-g1tsslrmls8369va2ve1ujk7rvv1nv5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaxuL512KWy2U6Aszq8tNvYx4xAVI5BaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802283689429-g1tsslrmls8369va2ve1ujk7rvv1nv5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
